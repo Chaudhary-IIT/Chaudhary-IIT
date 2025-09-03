@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Naman Kumar
 
-<!--
-**Chaudhary-IIT/Chaudhary-IIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech @ IIT Mandi**  
+💻 **B.S. @ IIT Madras** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔹 [Vehicle Parking App (Flask + SQLite)](https://github.com/Chaudhary-IIT/VPA) – Multi-user parking management system with admin & user roles.
+- 🔹 [Sootrank (Django + PostgreSQL)](https://github.com/Chaudhary-IIT/Sootrank) – Academic Automation - Registration & Result.
+  
+---
+
+## 📊 GitHub Stats
+![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaudhary-IIT&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaudhary-IIT&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/naman-kumar-mtr/)  
+- 📧 Email: namank.official@gmail.com
+
+
+---
+
+✨ *"Code. Build. Learn. Repeat."*
