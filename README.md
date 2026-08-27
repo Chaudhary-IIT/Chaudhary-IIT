@@ -88,15 +88,14 @@ operations instead of per-row writes.
 
 ### 📊 Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chaudhary-IIT&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github" />
-<img height="165" src="https://streak-stats.demolab.com?user=Chaudhary-IIT&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img height="180" src="https://github-readme-stats-neon-gamma-74.vercel.app/api?username=Chaudhary-IIT&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github" />
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaudhary-IIT/Chaudhary-IIT/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chaudhary-IIT/Chaudhary-IIT/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Chaudhary-IIT/Chaudhary-IIT/output/snake.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaudhary-IIT/Chaudhary-IIT/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chaudhary-IIT/Chaudhary-IIT/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Chaudhary-IIT/Chaudhary-IIT/output/snake-dark.svg" width="95%" />
 </picture>
 
 </div>
